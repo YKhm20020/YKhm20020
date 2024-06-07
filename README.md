@@ -16,16 +16,21 @@ front-end suki suki daisuki-
 
 <h3>Languages and Tools</h3>
 
-<h4>Languages</h4>
+<h4>Languages(Frameworks)</h4>
 
 [![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
+[![ NEXT.JS](https://img.shields.io/static/v1?label=&message=Next.js&color=232F3E&style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 <h4>Tools</h4>
 
 [![ Storybook](https://img.shields.io/static/v1?label=&message=Storybook&color=FF4785&style=flat&logo=storybook&logoColor=white)](<[https://reactjs.org/](https://storybook.js.org/)>)
+[![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![ Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![ GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat&logo=github&logoColor=white)](https://github.com/features/)
+[![ GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=flat&logo=github%20actions&logoColor=white)](https://github.com/features/actions)
 
 <h4>Cloud Services</h4>
 
