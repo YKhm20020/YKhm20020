@@ -23,18 +23,20 @@ Molcar and hogeta mo suki suki daisuki- 🐹
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
 [![ NEXT.JS](https://img.shields.io/static/v1?label=&message=Next.js&color=232F3E&style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![ C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=#00599C&style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![ Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=#FF2D20&style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![ Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)](https://laravel.com/)
 
 <h4>Tools</h4>
 
 [![ Storybook](https://img.shields.io/static/v1?label=&message=Storybook&color=FF4785&style=flat&logo=storybook&logoColor=white)](<[https://reactjs.org/](https://storybook.js.org/)>)
 [![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
-[![ Biome](https://img.shields.io/static/v1?label=&message=Biome&color=#60A5FA&style=flat&logo=biome&logoColor=white)](https://biomejs.dev/)
+[![ Biome](https://img.shields.io/badge/biome-60a5fa?style=flat&logo=biome&logoColor=white)](https://biomejs.dev/)
 [![ Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![ GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat&logo=github&logoColor=white)](https://github.com/features/)
 [![ GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=flat&logo=github%20actions&logoColor=white)](https://github.com/features/actions)
 
 <h4>Cloud Services</h4>
-[![ AWS](https://img.shields.io/static/v1?label=&message=AWS&color=#232F3E&style=flat&logo=amazonwebservices)](https://aws.amazon.com/)
+
+[![ AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&style=flat&logoColor=white)](https://aws.amazon.com/)
 [![ GCP](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
