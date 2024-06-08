@@ -1,5 +1,5 @@
 <h1>🐹 I'm Yuya Kimura 🐹</h1>
-<h3>A master's student in Miyazaki University, an aspiring front-end web developer</h3>
+<h3>A master's student in Miyazaki University, aspiring front-end web developer</h3>
 
 front-end suki suki daisuki-
 
