@@ -41,4 +41,4 @@ Molcar and hogeta mo suki suki daisuki- 🐹
 <h4>Cloud Services</h4>
 
 [![ AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&style=flat&logoColor=white)](https://aws.amazon.com/)
-[![ GCP](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![ Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
