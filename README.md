@@ -23,8 +23,6 @@ Molcar and hogeta mo suki suki daisuki- 🐹
 [![ TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
 [![ NEXT.JS](https://img.shields.io/static/v1?label=&message=Next.js&color=232F3E&style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![ TanStack Router](https://img.shields.io/static/v1?label=&message=TanStack%20Router&color=05CE78&style=flat)](https://tailwindcss.com/)
 [![ C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=flat)](https://isocpp.org/)
 [![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![ Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)](https://laravel.com/)
@@ -32,6 +30,8 @@ Molcar and hogeta mo suki suki daisuki- 🐹
 <h4>Tools</h4>
 
 [![ Storybook](https://img.shields.io/static/v1?label=&message=Storybook&color=FF4785&style=flat&logo=storybook&logoColor=white)](<[https://reactjs.org/](https://storybook.js.org/)>)
+[![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![ TanStack Router](https://img.shields.io/static/v1?label=&message=TanStack%20Router&color=05CE78&style=flat)](https://tanstack.com/router/latest)
 [![ GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![ Vercel](https://img.shields.io/badge/vercel-%23000000.svg?label=&message=Vercel&style=flat&logo=vercel&logoColor=white")](https://vercel.com/home)
 [![ Biome](https://img.shields.io/badge/biome-60a5fa?style=flat&logo=biome&logoColor=white)](https://biomejs.dev/)
