@@ -24,6 +24,7 @@ Molcar and hogeta mo suki suki daisuki- 🐹
 [![ React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=flat&logo=React&logoColor=black)](https://reactjs.org/)
 [![ NEXT.JS](https://img.shields.io/static/v1?label=&message=Next.js&color=232F3E&style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![ TailWind CSS](https://img.shields.io/static/v1?label=&message=TailWind%20CSS&color=06B6D4&style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![ TanStack Router](https://img.shields.io/static/v1?label=&message=TanStack%20Router&color=05CE78&style=flat)](https://tailwindcss.com/)
 [![ C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=flat)](https://isocpp.org/)
 [![ Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![ Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)](https://laravel.com/)
